@@ -3,7 +3,7 @@
 	/*
 		Plugin Name: AppArtig Post List Featured Image
 		Description: Plugin for showing the featured image in the Post/Page Listview
-		Version:     0.0.1
+		Version:     1.0.0
 		Author:      AppArtig e.U.
 		Author URI:  https://www.appartig.at
 		License:     APPARTIG/AGB
